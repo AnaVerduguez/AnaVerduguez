@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **América Virtual**
 
-- 🌱 I’m currently learning **SQL,JAVA, POO and Spring Framework**
+- 🌱 I’m currently learning **SQL, JAVA, POO and Spring Framework**
 
 - 🤝 I’m currently studying **Degree in computer science**
 
