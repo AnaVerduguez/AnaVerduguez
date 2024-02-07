@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋🏼, soy Ana Verduguez</h1>
-<h3 align="center">Java Developer JR</h3>
+<h3 align="center">Desarrolladora Java</h3>
 
 - 💻 Actualmente trabajo en: **América Virtual**
 
-- 💡 Mis herramientas de trabajo son: **MYSQL, JAVA y Spring Framework**
-
+- 💡 Mis herramientas de trabajo son: **SQL, JAVA y Spring Framework**
+- 
 - 📚 Estudiando: **Licenciatura en Informática**
 
 - 📫 Contacto: **anaverduguez@hotmail.com**
