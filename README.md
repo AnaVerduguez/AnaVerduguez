@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Desarrolladora Java JR</h3>
+<h3 align="center"> Software Developer </h3>
 
 ###
 
