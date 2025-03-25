@@ -1,4 +1,4 @@
-<h2 align="center">Hola! Mi nombre es Ana Verduguez💗</h2>
+<h2 align="center">Hola! Mi nombre es Ana Verduguez 💗</h2>
 
 ###
 
