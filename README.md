@@ -1,8 +1,10 @@
-<h2 align="center">Hola! Mi nombre es Ana Verduguez 💗</h2>
+<h2 align="center"> Ana Verduguez Software Backend | Go Developer 💗</h2>
 
-###
-
-<h3 align="center"> Software Developer </h3>
+### 🧠 About me
+- ⚙️ First solve the problem, then write the code  
+- 🌱 Actualmente aprendiendo **Go**.  
+- ⚡ Trabajo en Mercado Libre. 
+- 🎓 Licenciatura en Informática.
 
 ###
 
