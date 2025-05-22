@@ -1,7 +1,6 @@
-<h2 align="center"> Ana Verduguez Software Backend | Go Developer 💗</h2>
+<h2 align="center"> Software Backend | Go Developer 💗</h2>
 
-### 🧠 About me
-- ⚙️ First solve the problem, then write the code  
+### 🧠 Sobre mí
 - 🌱 Actualmente aprendiendo **Go**.  
 - ⚡ Trabajo en Mercado Libre. 
 - 🎓 Licenciatura en Informática.
