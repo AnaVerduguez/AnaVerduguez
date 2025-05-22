@@ -7,7 +7,7 @@
 
 ###
 
-<img src="https://media.giphy.com/media/XbZCyA6xnwZ9m/giphy.gif" width="150" align="right" />
+<img src="[https://media.giphy.com/media/XbZCyA6xnwZ9m/giphy.gif](https://media.tenor.com/TCMWkxIkF9IAAAAj/dancing-gopher.gif)" width="150" align="right" />
 
 ###
 
