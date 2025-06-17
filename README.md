@@ -3,8 +3,11 @@
 ### 🧠 Sobre mí
 
 🎓 Estudiante de Licenciatura en Desarrollo de Software con 2 años de experiencia.  
+
 🚀 Backend Developer en **Mercado Libre**, trabajando con Go y MySQL.
+
 💡 Apasionada por los equipos colaborativos, el aprendizaje constante y los desafíos técnicos.
+
 🎯 Busco seguir creciendo y aportar en proyectos de alto impacto.
 
 ---
